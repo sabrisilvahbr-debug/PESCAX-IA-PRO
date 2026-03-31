@@ -1,6 +1,0 @@
-section {
-  margin:40px;
-  padding:20px;
-  background:#1b263b;
-  border-radius:15px;
-}
