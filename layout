@@ -1,0 +1,9 @@
+/layout
+  theme.liquid
+
+/templates
+  page.pesca-ai.liquid
+
+/sections
+  hero.liquid
+  benefits.liquid
